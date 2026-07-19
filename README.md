@@ -14,9 +14,7 @@ The dashboard converts raw sales data into meaningful insights through interacti
 
 # 🖼️ Dashboard Preview
 
-> Add your dashboard screenshot here
-
-![Sales Dashboard]
+Sales Dashboard
 
 <img width="1321" height="728" alt="Screenshot 2026-07-19 224108" src="https://github.com/user-attachments/assets/ce217693-178c-4757-b720-9dc9b69ff849" />
 
